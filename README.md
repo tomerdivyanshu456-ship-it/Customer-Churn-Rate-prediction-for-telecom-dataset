@@ -265,29 +265,20 @@ Generated Visualizations:
 
 ---
 
-## Project Structure
-
-```text
 Customer-Churn-Prediction/
 
-│
-├── synthetic_customer_churn_100k.csv
-├── churn_prediction.ipynb
 ├── README.md
-├── requirements.txt
+├── Requirements.txt
+├── churn_prediction.ipynb
+├── synthetic_customer_churn_100k.csv
 │
-└── results/
-    ├── churn_distribution.png
-    ├── correlation_heatmap.png
-    ├── churn_by_contract.png
-    ├── monthly_charges_vs_churn.png
-    ├── feature_importance.png
-    ├── model_comparison.png
-    └── xgboost_confusion_matrix.png
-```
-
----
-
+├── churn_distribution.png
+├── correlation_heatmap.png
+├── churn_by_contract.png
+├── monthly_charges_vs_churn.png
+├── feature_importance.png
+├── model_comparison.png
+└── xgboost_confusion_matrix.png
 ## Future Improvements
 
 Potential enhancements include:
